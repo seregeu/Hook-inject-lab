@@ -1,0 +1,1 @@
+-name notepad.exe -hide C:\Users\User\Desktop\Labs2\bin\Release\test.txt

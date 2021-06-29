@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(504,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Labs2Hook.cpp
+  Labs2Hook.vcxproj -> C:\Users\Asus\source\repos\Labs2\obj\Debug_x64$\Labs2Hook\Labs2Hook.dll
+  Подпапка или файл -p уже существует.
+  Скопировано файлов:         1.
+  Ошибка во время обработки: -p.
+  Подпапка или файл C:\Users\Asus\source\repos\Labs2\\bin\Debug\ уже существует.
+  Ошибка во время обработки: C:\Users\Asus\source\repos\Labs2\\bin\Debug\.

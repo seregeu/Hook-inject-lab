@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Labs2Inject.cpp
+  Labs2PipeServ.cpp
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(18,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPCTSTR'
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(18,9): message : consider using '%ls' in the format string
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(18,9): message : consider using '%lls' in the format string
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(18,9): message : consider using '%Ls' in the format string
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(18,9): message : consider using '%ws' in the format string
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(174,5): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPTSTR'
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(174,5): message : consider using '%ls' in the format string
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(174,5): message : consider using '%lls' in the format string
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(174,5): message : consider using '%Ls' in the format string
+C:\Users\User\Desktop\Labs2\Labs2Inject\Labs2PipeServ.cpp(174,5): message : consider using '%ws' in the format string
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 150 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Labs2Inject.vcxproj -> C:\Users\User\Desktop\Labs2\obj\Release_x64\Labs2Inject\Labs2Inject.exe
+  Подпапка или файл -p уже существует.
+  Ошибка во время обработки: -p.
+  Подпапка или файл C:\Users\User\Desktop\Labs2\\bin\Release\ уже существует.
+  Ошибка во время обработки: C:\Users\User\Desktop\Labs2\\bin\Release\.
+  Скопировано файлов:         1.

@@ -1,0 +1,2 @@
+C:\Users\Asus\source\repos\Labs2\obj\Release_x64\Labs2Hook\Labs2Hook.dll
+C:\Users\User\Desktop\Labs2\obj\Release_x64\Labs2Hook\Labs2Hook.dll

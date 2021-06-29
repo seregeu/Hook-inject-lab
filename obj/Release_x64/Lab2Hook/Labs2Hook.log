@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Assembling Hook.asm...
+  Lab2PipeCli.cpp
+C:\Users\User\Desktop\Labs2\Labs2Hook\Lab2PipeCli.cpp(9,12): warning C4101: 'chBuf': unreferenced local variable
+C:\Users\User\Desktop\Labs2\Labs2Hook\Lab2PipeCli.cpp(11,12): warning C4101: 'cbRead': unreferenced local variable
+C:\Users\User\Desktop\Labs2\Labs2Hook\Lab2PipeCli.cpp(11,20): warning C4101: 'cbToWrite': unreferenced local variable
+C:\Users\User\Desktop\Labs2\Labs2Hook\Lab2PipeCli.cpp(11,31): warning C4101: 'cbWritten': unreferenced local variable
+  Lab2Hook.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\User\Desktop\Labs2\Labs2Hook\Lab2Hook.cpp(216): warning C4715: 'Labs2CreateHook': not all control paths return a value
+  All 268 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Labs2Hook.vcxproj -> C:\Users\User\Desktop\Labs2\obj\Release_x64\Lab2Hook\Lab2Hook.dll
+  Подпапка или файл -p уже существует.
+  Ошибка во время обработки: -p.
+  Подпапка или файл C:\Users\User\Desktop\Labs2\bin\Release уже существует.
+  Ошибка во время обработки: C:\Users\User\Desktop\Labs2\bin\Release.
+  Скопировано файлов:         1.

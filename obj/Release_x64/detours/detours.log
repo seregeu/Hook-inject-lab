@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  creatwth.cpp
+  detours.cpp
+  disasm.cpp
+  disolarm.cpp
+  disolarm64.cpp
+  disolia64.cpp
+  disolx64.cpp
+  disolx86.cpp
+  image.cpp
+  modules.cpp
+  detours.vcxproj -> C:\Users\User\Desktop\Labs2\obj\Release_x64\detours\detours.lib
